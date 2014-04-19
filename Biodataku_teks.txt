@@ -1,8 +1,0 @@
-//LATIHAN REPOSITORY dan GIT
-//Nama File : Biodataku_teks.txt
-
-Nama		: Malik
-Alamat		: Jl. Akses UI Kelapadua Depok
-Status		: Single
-Gol. Darah	:A
-Hobby		: Sepakbola dan Musik
