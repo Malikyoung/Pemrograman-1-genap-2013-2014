@@ -1,9 +1,9 @@
-package Pertemuan05e.bin; //alternatif pertama
+package Pertemuan05f.bin; //alternatif pertama
 //package Pertemuan05e; //contoh penggunaan package yang kedua
 
 public class IF02
 {
-	public static void maint(String[] Malik)
+	public static void main(String[] Malik)
 	{
 		int nilai=70;
 		if(nilai >= 60)

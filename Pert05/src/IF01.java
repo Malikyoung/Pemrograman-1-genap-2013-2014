@@ -3,7 +3,7 @@ package Pertemuan05e.bin; //alternatif pertama
 
 public class IF01
 {
-	public static void maint(String[] Malik)
+	public static void main(String[] Malik)
 	{
 		int nilai=58;
 		if(nilai >= 60)

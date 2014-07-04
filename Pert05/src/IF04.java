@@ -2,7 +2,7 @@
 //Date 		: 17 April 2014
 
 package Pertemuan05h.bin; //alternative pertama
-//package Praktikum05g; //Contoh penggunaan package yang kedua
+//package Praktikum05h; //Contoh penggunaan package yang kedua
 
 public class IF04
 {
